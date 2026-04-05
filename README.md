@@ -1,24 +1,36 @@
-# Hi 👋, I'm Ranndxrn
+# 💻 Full-Stack Mobile Developer | Flutter • React Native • Kotlin • Swift | 🚀 Laravel Backend
 
-🚀 Flutter Developer from Cambodia  
-💡 I build modern mobile applications  
+🌟 **About Me**  
+I’m a passionate developer building **modern, scalable mobile applications**.  
+I work on both **cross-platform and native apps**, with backend APIs powered by **Laravel**.  
+I enjoy turning ideas into reality with clean code, smart architecture, and creative solutions.
 
-## 👨‍💻 About Me
-- 🔭 Working on mobile apps
-- 🌱 Learning GetX & clean architecture
-- 💬 Ask me about Flutter & APIs
+---
 
 ## 🛠️ Tech Stack
-![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-blue?logo=dart)
-![Firebase](https://img.shields.io/badge/Firebase-orange?logo=firebase)
+
+### 📱 Mobile Development
+Flutter | React Native | Kotlin | Swift
+
+### ⚙️ Backend Development
+PHP | Laravel | Node.js (optional) | REST APIs
+
+### 🗄️ Databases
+MySQL | Redis | SQLite
+
+### 🎨 Frontend & UI
+HTML5 | CSS3 | JavaScript | TailwindCSS | Bootstrap | Figma
+
+### 🛠️ Tools & DevOps
+Git | GitHub | GitLab | VS Code | Linux | Postman | Firebase
+
+---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Chhoranndorn&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chhoranndorn&layout=compact)
 
-## 🚀 Projects
-- Grocery App
-- Wallet App
+---
 
-## 📫 Contact
-- Email: your@email.com
+## 📫 Connect With Me
+[Email](mailto:your@email.com) | [LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourportfolio.com) | [Telegram](https://t.me/yourusername)
